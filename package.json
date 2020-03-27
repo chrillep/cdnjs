@@ -24,7 +24,7 @@
     "tarball-extract": "~0.0",
     "uglify-js": "~2.4",
     "underscore": "~1",
-    "colors": "~1.1",
+    "colors": "~1.4",
     "is-there": "2.0.0"
   },
   "devDependencies": {
