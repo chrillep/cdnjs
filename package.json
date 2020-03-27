@@ -19,7 +19,7 @@
     "fs-extra": "~0.18",
     "glob": "~5",
     "lodash": "~3.8",
-    "rss": "~1.1",
+    "rss": "~1.2",
     "superagent": "~0.21",
     "tarball-extract": "~0.0",
     "uglify-js": "~2.4",
